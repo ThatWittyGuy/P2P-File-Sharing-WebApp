@@ -56,6 +56,13 @@ The project is split into two parts: the frontend (`client`) and the signaling b
     
 6.  The `server`'s job is now done. All further communication, including chat messages and file chunks, is sent *directly* between Peer A and Peer B.
 
+
+![alt text](system-arch1.png)
+
+<br>
+
+![alt text](file-data-transfer.png)
+
 ---
 
 ## 🛠️ Tech Stack
